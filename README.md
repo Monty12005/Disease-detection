@@ -1,1 +1,1 @@
-# Disease-detection-and-breed-classification
+# This includes all the algorithm used for disese detetction 
